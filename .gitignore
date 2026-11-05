@@ -1,0 +1,4 @@
+__pycache__/\n.venv/\n.env\ninstance/\n*.pyc\n
+.venv/
+__pycache__/
+*.pycgit 
